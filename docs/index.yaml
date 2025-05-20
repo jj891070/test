@@ -3,7 +3,7 @@ entries:
   base:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-20T22:45:08.572014+08:00"
+    created: "2025-05-20T22:54:55.06144+08:00"
     description: 共用部署設定（Base Chart）
     digest: 3f5b35b3650d6d731805750f2e875124dd0f48d68607d259d2590ce1da24073a
     name: base
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://jj891070.github.io/test/base-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-20T22:45:08.569539+08:00"
+generated: "2025-05-20T22:54:55.060995+08:00"
